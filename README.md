@@ -14,8 +14,7 @@ Actualmente dedico mi tiempo a crear proyectos que me ayuden a seguir mejorando 
 
 ### ¿Cual es mi objetivo?
 
-Mi objetivo es poder trabajar con un grupo bien consolidado creando proyectos desafiantes y que puedan brindar una ayuda en la vida de las personas,
-haciendo que estas sean mas faciles.
+Mi objetivo es poder trabajar con un grupo bien consolidado creando proyectos desafiantes e innovadores que puedan brindar ayuda y resoluciones en los problemas de las personas. Haciendo que la vida de estas sea mas facil.
 
 ### Mis tecnologias:
 
