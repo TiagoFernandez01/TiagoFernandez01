@@ -1,9 +1,12 @@
-### Hi there 👋
+### Hola soy Tiago Fernandez👋
 
-<!--
-**TiagoFernandez01/TiagoFernandez01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Quien soy?
+
+Spy un desarrollador web FullStack,aunque orientado mas al front,.
+
+Comenze a estudiar la programacion ya que desde chico siempre tuve la duda de como funcionaba y se creaba todo lo que se ve en la pnatalla de una computadora.
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
