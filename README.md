@@ -18,11 +18,11 @@ Mi objetivo es poder trabajar con un grupo bien consolidado creando proyectos de
 
 ### Mis tecnologias:
 
-### JavaScript
-### React
-### Redux
-### Node.js
-### Express.js
-### MongoDB
-### Mongoose
-### GIT
+### -JavaScript
+### -React
+### -Redux
+### -Node.js
+### -Express.js
+### -MongoDB
+### -Mongoose
+### -GIT
