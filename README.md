@@ -3,7 +3,7 @@
 
  ### Quien soy?
 
-Spy un desarrollador web FullStack,aunque orientado mas al front,.
+Soy un desarrollador web FullStack,aunque orientado mas al front,.
 
 Comenze a estudiar la programacion ya que desde chico siempre tuve la duda de como funcionaba y se creaba todo lo que se ve en la pnatalla de una computadora. Encuentro muy
 interesante los dierentes problemas y soluciones que te brinda el codigo.
